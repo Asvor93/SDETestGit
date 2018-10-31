@@ -17,7 +17,8 @@ public class NytTestProjekt
      */
     public static void main(String[] args)
     {
-        // TODO code application logic here
+        Robot r = new Robot();
+        System.out.println("Robot: ");
     }
     
 }
